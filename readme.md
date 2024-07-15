@@ -7,7 +7,7 @@
 
 ชื่อ-สกุล : นาย สรวิศ หยกเทียมแท้
 
-GitHub Page URL :
+GitHub Page URL : https://cpe207-students-167.github.io/lab07-o0Mink0o/
 
 ---
 
